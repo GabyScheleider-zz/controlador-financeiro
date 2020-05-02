@@ -1,0 +1,24 @@
+<link href="https://fonts.googleapis.com/css2?family=Mukta:wght@300;400&family=Rubik:ital,wght@0,400;0,500;1,300;1,400;1,500&display=swap" rel="stylesheet">
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    width: 20vw;
+    height: 5vh;
+    border: 1px transparent;
+    border-radius: 5px;
+    font-family: Ope sans-serif;
+    font-weight: 500;
+}
+.bck-soft-blue{
+    background-color: #4578d1;
+    font-size: 1.2rem;
+}
+.bck-soft-blue:hover{
+    background-color: #d19e45;
+}
+
+.txt-white{
+    color: white;
+}
